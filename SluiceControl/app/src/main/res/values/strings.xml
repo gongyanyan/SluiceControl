@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SluiceControl</string>
+    <!-- 公共字段 -->
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="ok">登   录</string>
+    <string name="next">下一步</string>
+    <string name="my_digits">0123456789qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM</string>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:background="@color/text_blue"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_22"
+        android:text="门单元测试">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/text_blue"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textSize="@dimen/font_22"
+        android:text="通行指示器测试">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/text_blue"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textSize="@dimen/font_22"
+        android:text="设备信息设置">
+    </Button>
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/text_blue"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textSize="@dimen/font_22"
+        android:text="闸机参数设置">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/text_blue"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textSize="@dimen/font_22"
+        android:text="App管理">
+
+    </Button>
+
+
+
+
+</LinearLayout>
